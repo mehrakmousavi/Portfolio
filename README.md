@@ -18,6 +18,7 @@ This is my personal portfolio website, built using semantic HTML5, modern CSS3, 
 ├── /assets
 │   ├── /images
 └── README.md
+git clone https://github.com/mehrakmousavi/Portfolio.git
 
 - ## How to Run This Project
 
@@ -25,7 +26,6 @@ To view the live website, click here:
 🔗 [https://mehrakmousavi.github.io/Portfolio/](https://mehrakmousavi.github.io/Portfolio/)
 
 If you cloned the project to your computer:
-git clone https://github.com/mehrakmousavi/Portfolio.git
 1. Open the project folder.
 2. Open `index.html` in your browser (double-click or right-click → Open with browser).
 
